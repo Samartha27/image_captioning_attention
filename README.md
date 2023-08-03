@@ -1,10 +1,5 @@
 # Image Captioning with Bahdanau Attention
 
-The dataset can be dowloaded from ![Flickr_8k].
-
-[link](https://github.com/pushshift/api)
+The dataset can be dowloaded from [Flickr_8k](https://www.kaggle.com/adityajn105/flickr8k)
 
 
-
-
-[Flickr_8k] : https://www.kaggle.com/adityajn105/flickr8k
