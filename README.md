@@ -1,6 +1,6 @@
-# image_captioning_attention
+# Image Captioning with Bahdanau Attention
 
-The dataset is used in [Flickr_8k][Flickr 8k] from kaggle.
+The dataset is used in [Flickr_8k] from kaggle.
 
 
 
