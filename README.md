@@ -1,6 +1,6 @@
 # Image Captioning with Bahdanau Attention
 
-The dataset is used in [Flickr_8k] from kaggle.
+The dataset can be dowloaded from ![Flickr_8k].
 
 
 
